@@ -14,7 +14,7 @@ This project is a simple sun tracking solar panel system using an Arduino UNO. T
 
 ## Circuit Diagram
 
-![Circuit Diagram](path-to-your-circuit-diagram-image)
+![Circuit Diagram](Circuit_diagram.png)
 
 ## Assembly Instructions
 
