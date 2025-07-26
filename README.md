@@ -1,4 +1,4 @@
-# Sun Tracking Solar Panel Using Arduino
+**STEPS (Sun Tracking Energy Panel System)
 
 This project is a simple sun tracking solar panel system using an Arduino UNO. The system adjusts the position of the solar panel to face the sun throughout the day, maximizing the efficiency of solar energy collection.
 
